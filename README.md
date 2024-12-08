@@ -1,2 +1,2 @@
 # delta-rama
-This is my first demo repo class
+This is my first demo repo class.
